@@ -1,4 +1,5 @@
 Olá, eu sou o Danilo 👋
+
 Atualmente, trabalho com Kotlin, Node.js e Angular, desenvolvendo soluções modernas e eficientes para diferentes necessidades.
 Aqui no meu repositório, você encontra a maioria dos meus projetos pessoais — muitos deles surgiram para resolver demandas do dia a dia ou simplesmente por curiosidade e vontade de aprender algo novo.
 
