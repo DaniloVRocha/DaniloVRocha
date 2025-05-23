@@ -4,6 +4,7 @@ Atualmente, trabalho com Kotlin, Node.js e Angular, desenvolvendo soluções mod
 Aqui no meu repositório, você encontra a maioria dos meus projetos pessoais — muitos deles surgiram para resolver demandas do dia a dia ou simplesmente por curiosidade e vontade de aprender algo novo.
 
 Projetos em Destaque
+
 **Carteira Digital**:
 Uma aplicação para gestão de finanças pessoais, permitindo o controle prático e seguro dos seus gastos e receitas.
 
