@@ -1,11 +1,13 @@
-### Olá, eu sou o Danilo 👋
+Olá, eu sou o Danilo 👋
+Atualmente, trabalho com Kotlin, Node.js e Angular, desenvolvendo soluções modernas e eficientes para diferentes necessidades.
+Aqui no meu repositório, você encontra a maioria dos meus projetos pessoais — muitos deles surgiram para resolver demandas do dia a dia ou simplesmente por curiosidade e vontade de aprender algo novo.
 
-- 🔭 Atualmente trabalho com Kotlin, Node.js e Angular...
+Projetos em Destaque
+**Carteira Digital**:
+Uma aplicação para gestão de finanças pessoais, permitindo o controle prático e seguro dos seus gastos e receitas.
 
-Aqui mantenho a maioria dos meus projetos pessoais, projetos que geralmente desenvolvo durante algum curso e/ou projetos que eu faço para sanar algumas necessidades ou curiosidades do dia a dia.
-  
-- Os Projetos em Destaque são:
-  1. **Carteira Digital** : O Projeto funciona como uma carteira para gestão de finanças.
-  2. **PDF Join** : O Projeto utiliza a API do Google Drive para guardar arquivos e o PDFMerge para unir um ou mais arquivos em um único.
+**PDF Join**:
+Projeto que utiliza a API do Google Drive para armazenar arquivos e o PDFMerge para unir múltiplos PDFs em um único documento, facilitando a organização e o compartilhamento.
 
-Você pode descobrir mais sobre mim como minhas informações de contato ou sobre algum projeto no meu [portfólio](https://portfolio-danilo.web.app/home) que está hospedado com Google Firebase.
+Quer saber mais sobre mim, entrar em contato ou conhecer outros projetos?
+Acesse meu [portfólio](https://portfolio-danilo.web.app/home), hospedado no Google Firebase.
