@@ -11,5 +11,4 @@ Uma aplicação para gestão de finanças pessoais, permitindo o controle práti
 **PDF Join**:
 Projeto que utiliza a API do Google Drive para armazenar arquivos e o PDFMerge para unir múltiplos PDFs em um único documento, facilitando a organização e o compartilhamento.
 
-##![DaniloVRocha GitHub stats](https://github-readme-stats.vercel.app/api?username=danilovrocha&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilovrocha&layout=compact)
